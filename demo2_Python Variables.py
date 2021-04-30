@@ -15,6 +15,7 @@ print(y)
 print(z)
 
 a = "Hello"
+print(a)
 try:
     a = int(input("Enter a number: "))
 except ValueError:
